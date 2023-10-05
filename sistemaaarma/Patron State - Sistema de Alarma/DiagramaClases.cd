@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patron_State___Sistema_de_Alarma.Alarma">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAACAAA=</HashCode>
+      <FileName>Modelo\Alarma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_State___Sistema_de_Alarma.Basico" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\Basico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_State___Sistema_de_Alarma.Cliente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAAg=</HashCode>
+      <FileName>Modelo\Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Estado" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Patron_State___Sistema_de_Alarma.Lujo" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\Lujo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patron_State___Sistema_de_Alarma.Plus" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAAAAA=</HashCode>
+      <FileName>Modelo\Plus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

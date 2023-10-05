@@ -1,0 +1,30 @@
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.exe
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.pdb
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe.config
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.exe
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.pdb
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.pdb
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.csprojResolveAssemblyReference.cache
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe.config
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.exe
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.pdb
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.pdb
+G:\!! Trabajo Diploma\07\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe.config
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.exe
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.pdb
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.pdb
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe.config
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Debug\Patron State - Sistema de Alarma.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Debug\Patron State - Sistema de Alarma.csprojAssemblyReference.cache

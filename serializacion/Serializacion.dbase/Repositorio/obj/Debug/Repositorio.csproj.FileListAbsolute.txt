@@ -1,0 +1,11 @@
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Repositorio\bin\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Repositorio\bin\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\bin\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\bin\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache

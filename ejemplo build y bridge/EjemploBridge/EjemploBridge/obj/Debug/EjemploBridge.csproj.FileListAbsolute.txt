@@ -1,0 +1,7 @@
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\bin\Debug\EjemploBridge.exe.config
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\bin\Debug\EjemploBridge.exe
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\bin\Debug\EjemploBridge.pdb
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\obj\Debug\EjemploBridge.csproj.AssemblyReference.cache
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\obj\Debug\EjemploBridge.csproj.CoreCompileInputs.cache
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\obj\Debug\EjemploBridge.exe
+D:\Patrones 22-09-23\EjemploBridge\EjemploBridge\obj\Debug\EjemploBridge.pdb

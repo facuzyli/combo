@@ -1,0 +1,12 @@
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.exe
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.pdb
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.xml
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\ResolveAssemblyReference.cache
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos_basicos.Resources.resources
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbproj.GenerateResource.Cache
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.exe
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.xml
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.pdb
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.dll
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.pdb
+C:\Devs\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.xml

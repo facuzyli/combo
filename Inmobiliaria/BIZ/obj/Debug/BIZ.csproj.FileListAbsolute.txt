@@ -1,0 +1,24 @@
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BIZ\obj\Debug\BIZ.csprojResolveAssemblyReference.cache
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BIZ\bin\Debug\BIZ.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BIZ\bin\Debug\BIZ.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BIZ\obj\Debug\BIZ.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BIZ\obj\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BIZ\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BIZ\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BIZ\obj\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BIZ\obj\Debug\BIZ.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BIZ\bin\Debug\BIZ.dll
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BIZ\bin\Debug\BIZ.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BIZ\obj\Debug\BIZ.csprojResolveAssemblyReference.cache
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BIZ\obj\Debug\BIZ.dll
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BIZ\obj\Debug\BIZ.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BIZ\bin\Debug\BIZ.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BIZ\bin\Debug\BIZ.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BIZ\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BIZ\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BIZ\obj\Debug\BIZ.pdb

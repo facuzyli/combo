@@ -1,0 +1,19 @@
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\bin\Debug\Luchadores.exe.config
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\bin\Debug\Luchadores.exe
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\bin\Debug\Luchadores.pdb
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\obj\Debug\Luchadores.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\obj\Debug\Luchadores.exe
+c:\users\navegador\documents\visual studio 2013\Projects\Luchadores\Luchadores\obj\Debug\Luchadores.pdb
+G:\TC1\Clase 11\Luchadores\Luchadores\bin\Debug\Luchadores.exe.config
+G:\TC1\Clase 11\Luchadores\Luchadores\obj\Debug\Luchadores.exe
+G:\TC1\Clase 11\Luchadores\Luchadores\obj\Debug\Luchadores.pdb
+G:\TC1\Clase 11\Luchadores\Luchadores\bin\Debug\Luchadores.exe
+G:\TC1\Clase 11\Luchadores\Luchadores\bin\Debug\Luchadores.pdb
+G:\TC1\Clase 11\Luchadores\Luchadores\obj\Debug\Luchadores.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\bin\Debug\Luchadores.exe.config
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\bin\Debug\Luchadores.exe
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\bin\Debug\Luchadores.pdb
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\obj\Debug\Luchadores.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\obj\Debug\Luchadores.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\obj\Debug\Luchadores.exe
+D:\Facultad\Práctica Profesional\Luchadores\Luchadores\obj\Debug\Luchadores.pdb

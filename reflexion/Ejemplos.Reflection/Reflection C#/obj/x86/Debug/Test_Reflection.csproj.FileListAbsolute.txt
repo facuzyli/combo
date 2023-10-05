@@ -1,0 +1,6 @@
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\bin\Debug\Test_Reflection.dll
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\bin\Debug\Test_Reflection.pdb
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\obj\x86\Debug\Test_Reflection.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\obj\x86\Debug\Test_Reflection.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\obj\x86\Debug\Test_Reflection.dll
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection C#\obj\x86\Debug\Test_Reflection.pdb

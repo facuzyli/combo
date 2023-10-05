@@ -1,0 +1,58 @@
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\BIZ.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\BLL.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\BIZ.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\bin\Debug\BLL.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csprojResolveAssemblyReference.cache
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+E:\Ricardo Perez\Documents\Visual Studio 2015\Projects\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+E:\Ricardo Perez\Documents\Visual Studio 2015\Projects\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+E:\Ricardo Perez\Documents\Visual Studio 2015\Projects\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BIZ.dll
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BLL.dll
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BIZ.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\BLL.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\19\Inmobiliaria\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+G:\!! Práctica Profesional\19\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+G:\!! Práctica Profesional\19\Inmobiliaria\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BIZ.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BLL.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BIZ.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BLL.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe.config
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\TestInmueble.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\bin\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.csproj.CopyComplete
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\TestInmueble\obj\Debug\TestInmueble.pdb

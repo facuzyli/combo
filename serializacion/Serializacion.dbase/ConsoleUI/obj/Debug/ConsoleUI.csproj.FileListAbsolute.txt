@@ -1,0 +1,22 @@
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\Model.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\Model.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\bin\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\Model.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\Repositorio.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\Model.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\bin\Debug\Repositorio.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\ConsoleUI\obj\Debug\ConsoleUI.pdb

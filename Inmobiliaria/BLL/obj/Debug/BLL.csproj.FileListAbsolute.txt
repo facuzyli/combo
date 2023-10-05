@@ -1,0 +1,33 @@
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\bin\Debug\BLL.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\bin\Debug\BLL.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\bin\Debug\BIZ.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\bin\Debug\BIZ.pdb
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\obj\Debug\BLL.dll
+d:\richard\documents\visual studio 2013\Projects\Inmobiliaria\BLL\obj\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\bin\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\bin\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.pdb
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.dll
+G:\!! Trabajo Diploma\07\Inmobiliaria\Inmobiliaria\BLL\obj\Debug\BLL.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BLL.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BLL.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BIZ.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BIZ.pdb
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.dll
+G:\!! Práctica Profesional\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BLL.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BIZ.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\bin\Debug\BIZ.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Inmobiliria V2\Inmobiliaria\BLL\obj\Debug\BLL.pdb

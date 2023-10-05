@@ -1,0 +1,16 @@
+﻿''Paso 1
+MostrarPorNombre()
+
+''Paso 2
+Dim oPersona As New Test_Reflection.Persona
+
+oPersona.Nombre = "Microsoft"
+oPersona.Apellido = "Reflection"
+
+InformarPropiedades(oPersona)
+
+''Paso 3
+MostrarInformacionDeTiposDelEnsamblado("Test_Reflection.dll")
+
+''Paso 4
+CrearInstanciaInvocarMetodo("Test_Reflection.dll", "Test_Reflection.Persona", "Saludar")

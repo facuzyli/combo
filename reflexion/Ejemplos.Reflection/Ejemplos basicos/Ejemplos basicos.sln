@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejemplos basicos", "Ejemplos basicos\Ejemplos basicos.vbproj", "{A7C0FF5F-FF66-44F8-BBF5-B59B7C9A0884}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test_Reflection", "Test_Reflection\Test_Reflection.vbproj", "{879F1D73-3FC3-455D-9F19-4DA4023111F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C0FF5F-FF66-44F8-BBF5-B59B7C9A0884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C0FF5F-FF66-44F8-BBF5-B59B7C9A0884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C0FF5F-FF66-44F8-BBF5-B59B7C9A0884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C0FF5F-FF66-44F8-BBF5-B59B7C9A0884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879F1D73-3FC3-455D-9F19-4DA4023111F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879F1D73-3FC3-455D-9F19-4DA4023111F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879F1D73-3FC3-455D-9F19-4DA4023111F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879F1D73-3FC3-455D-9F19-4DA4023111F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

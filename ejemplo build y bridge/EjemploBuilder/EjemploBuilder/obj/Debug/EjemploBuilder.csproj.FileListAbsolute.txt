@@ -1,0 +1,7 @@
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\bin\Debug\EjemploBuilder.exe.config
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\bin\Debug\EjemploBuilder.exe
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\bin\Debug\EjemploBuilder.pdb
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\obj\Debug\EjemploBuilder.csproj.AssemblyReference.cache
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\obj\Debug\EjemploBuilder.csproj.CoreCompileInputs.cache
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\obj\Debug\EjemploBuilder.exe
+D:\Patrones 22-09-23\EjemploBuilder\EjemploBuilder\obj\Debug\EjemploBuilder.pdb

@@ -1,0 +1,15 @@
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.exe
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializacion.exe
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializacion.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializacion.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Modelo.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializador.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Modelo.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Modelo.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializador.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\bin\Debug\Serializador.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.vbprojResolveAssemblyReference.cache
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.Resources.resources
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializacion\obj\Debug\Serializacion.vbproj.GenerateResource.Cache

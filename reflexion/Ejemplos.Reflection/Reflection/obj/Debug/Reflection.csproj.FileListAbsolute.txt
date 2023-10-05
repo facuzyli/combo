@@ -1,0 +1,10 @@
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\bin\Debug\Test_Reflection.dll
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\bin\Debug\Test_Reflection.pdb
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\obj\Debug\Reflection.csproj.CopyComplete
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Facultad\Práctica Profesional\REFLECTION\Ejemplos.Reflection\Reflection\obj\Debug\Reflection.pdb

@@ -1,0 +1,12 @@
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\bin\Debug\DomainModel.dll
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\bin\Debug\DomainModel.pdb
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\obj\Debug\DomainModel.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\obj\Debug\DomainModel.dll
+D:\Facultad\Práctica Profesional\2022\Chain of responsability\SistemaPrestamos\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\DomainModel\obj\Debug\DomainModel.pdb

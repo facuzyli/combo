@@ -1,0 +1,11 @@
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.exe.config
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.exe
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.pdb
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Release\Patron State - Sistema de Alarma.exe
+D:\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Release\Patron State - Sistema de Alarma.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.exe.config
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\bin\Release\Patron State - Sistema de Alarma.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Release\Patron State - Sistema de Alarma.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Release\Patron State - Sistema de Alarma.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\Patron State - Sistema de Alarma\obj\Release\Patron State - Sistema de Alarma.pdb

@@ -1,0 +1,18 @@
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializacion.exe
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializacion.pdb
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializacion.xml
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Modelo.dll
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializador.dll
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Modelo.pdb
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Modelo.xml
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializador.pdb
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\bin\Debug\Serializador.xml
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\Serializacion.Resources.resources
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\Serializacion.vbproj.GenerateResource.Cache
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\Serializacion.exe
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\Serializacion.xml
+C:\Cristian\Universidad\Trabajo de Diploma\Ejemplos Serializacion\Serializacion\Serializacion\obj\Debug\Serializacion.pdb
+C:\TMP\Serializacion\Serializacion\obj\Debug\Serializacion.exe
+C:\TMP\Serializacion\Serializacion\obj\Debug\Serializacion.xml
+C:\TMP\Serializacion\Serializacion\obj\Debug\Serializacion.pdb

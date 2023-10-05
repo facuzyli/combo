@@ -1,0 +1,8 @@
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\bin\Debug\Serializador.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\bin\Debug\Serializador.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\bin\Debug\Serializador.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\obj\Debug\Serializador.Resources.resources
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\obj\Debug\Serializador.vbproj.GenerateResource.Cache
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\obj\Debug\Serializador.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\obj\Debug\Serializador.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Serializador\obj\Debug\Serializador.pdb

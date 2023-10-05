@@ -1,0 +1,31 @@
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.dll
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.exe
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.dll
+c:\users\navegador\documents\visual studio 2015\Projects\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.pdb
+D:\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.dll
+D:\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.pdb
+D:\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.exe
+D:\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.pdb
+D:\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csprojResolveAssemblyReference.cache
+D:\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.dll
+D:\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.pdb
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.dll
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.pdb
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.exe
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.pdb
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csprojResolveAssemblyReference.cache
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.dll
+G:\!! Práctica Profesional\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\NuevoEstado.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.exe
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.exe.config
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.csproj.CopyComplete
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.dll
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\obj\Debug\NuevoEstado.pdb
+D:\Facultad\Práctica Profesional\PRACTICA PROFESIONAL\19\Patron State - Sistema de Alarma\NuevoEstado\bin\Debug\Patron State - Sistema de Alarma.pdb

@@ -1,0 +1,27 @@
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\obj\Debug\Comando.csprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\bin\Debug\Comando.exe.config
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\bin\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\bin\Debug\Comando.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\obj\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Comando\obj\Debug\Comando.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\bin\Debug\Comando.exe.config
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\bin\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\bin\Debug\Comando.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\obj\Debug\Comando.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\obj\Debug\Comando.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\obj\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Comando\obj\Debug\Comando.pdb
+F:\Patrones\Command\Comando\bin\Debug\Comando.exe.config
+F:\Patrones\Command\Comando\bin\Debug\Comando.exe
+F:\Patrones\Command\Comando\bin\Debug\Comando.pdb
+F:\Patrones\Command\Comando\obj\Debug\Comando.csprojAssemblyReference.cache
+F:\Patrones\Command\Comando\obj\Debug\Comando.csproj.CoreCompileInputs.cache
+F:\Patrones\Command\Comando\obj\Debug\Comando.exe
+F:\Patrones\Command\Comando\obj\Debug\Comando.pdb
+D:\Facultad\Práctica Profesional\Comando\bin\Debug\Comando.exe.config
+D:\Facultad\Práctica Profesional\Comando\bin\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\Comando\bin\Debug\Comando.pdb
+D:\Facultad\Práctica Profesional\Comando\obj\Debug\Comando.csprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\Comando\obj\Debug\Comando.csproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\Comando\obj\Debug\Comando.exe
+D:\Facultad\Práctica Profesional\Comando\obj\Debug\Comando.pdb

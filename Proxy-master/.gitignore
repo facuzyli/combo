@@ -1,0 +1,7 @@
+Proxy/bin/
+Proxy/obj/
+*.pdb
+Proxy.Application/bin/
+Proxy.Application/obj/
+Real.Application/obj/
+Real.Application/bin/

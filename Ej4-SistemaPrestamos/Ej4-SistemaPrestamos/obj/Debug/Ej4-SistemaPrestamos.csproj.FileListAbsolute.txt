@@ -1,0 +1,12 @@
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\Ej4-SistemaPrestamos.exe.config
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\Ej4-SistemaPrestamos.exe
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\Ej4-SistemaPrestamos.pdb
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\BLL.dll
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\DomainModel.dll
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\BLL.pdb
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\bin\Debug\DomainModel.pdb
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\obj\Debug\Ej4-SistemaPrestamos.csproj.AssemblyReference.cache
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\obj\Debug\Ej4-SistemaPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\obj\Debug\Ej4-SistemaPrestamos.csproj.CopyComplete
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\obj\Debug\Ej4-SistemaPrestamos.exe
+C:\Users\briia\source\repos\Ej4-SistemaPrestamos\Ej4-SistemaPrestamos\obj\Debug\Ej4-SistemaPrestamos.pdb

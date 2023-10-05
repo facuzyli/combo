@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ejemplos basicos
+</name>
+</assembly>
+<members>
+<member name="M:Ejemplos_basicos.Program.MostrarPorNombre">
+ <summary>
+ Muestra los datos de un tipo. Para obtener el tipo a analizar se utiliza el nombre del mismo
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:Ejemplos_basicos.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Ejemplos_basicos.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Ejemplos_basicos.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+</members>
+</doc>

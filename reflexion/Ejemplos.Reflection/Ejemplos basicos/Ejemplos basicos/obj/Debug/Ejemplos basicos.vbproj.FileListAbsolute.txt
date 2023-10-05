@@ -1,0 +1,36 @@
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.exe
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbprojResolveAssemblyReference.cache
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos_basicos.Resources.resources
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbproj.GenerateResource.Cache
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.exe
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\11\Ejemplos Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.xml
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos_basicos.Resources.resources
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbproj.GenerateResource.Cache
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.exe
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.xml
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.xml
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.exe
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.xml
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.pdb
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.exe
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.pdb
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Ejemplos basicos.xml
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.dll
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.pdb
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\bin\Debug\Test_Reflection.xml
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbprojResolveAssemblyReference.cache
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos_basicos.Resources.resources
+C:\Facultad\Práctica Profesional\2do cuatri\Ejemplos.Reflection\Ejemplos.Reflection\Ejemplos basicos\Ejemplos basicos\obj\Debug\Ejemplos basicos.vbproj.GenerateResource.Cache

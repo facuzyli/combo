@@ -1,0 +1,27 @@
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\bin\Debug\Modelo.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\bin\Debug\Modelo.pdb
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\bin\Debug\Modelo.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\obj\Debug\Modelo.Resources.resources
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\obj\Debug\Serializador.Modelo.vbproj.GenerateResource.Cache
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\obj\Debug\Modelo.dll
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\obj\Debug\Modelo.xml
+c:\Users\Lenovo\Universidad\00 2012\20 Cuatrimestre 02\01 TDIP SC\10\Serializacion.Cristian\Modelo\obj\Debug\Modelo.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\bin\Debug\Modelo.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\bin\Debug\Modelo.pdb
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\bin\Debug\Modelo.xml
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Serializador.Modelo.vbprojResolveAssemblyReference.cache
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Modelo.Resources.resources
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Serializador.Modelo.vbproj.GenerateResource.Cache
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Modelo.dll
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Modelo.xml
+D:\Facultad\Práctica Profesional\2do cuatri\Serializacion.dbase\Serializacion.dbase\Modelo\obj\Debug\Modelo.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\bin\Debug\Modelo.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\bin\Debug\Modelo.pdb
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\bin\Debug\Modelo.xml
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Serializador.Modelo.vbprojAssemblyReference.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Modelo.Resources.resources
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Serializador.Modelo.vbproj.GenerateResource.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Serializador.Modelo.vbproj.CoreCompileInputs.cache
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Modelo.dll
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Modelo.xml
+D:\Facultad\Práctica Profesional\SERIALIZACION\Serializacion.dbase\Modelo\obj\Debug\Modelo.pdb
